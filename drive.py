@@ -7,7 +7,7 @@ from torch_lr_finder import LRFinder
 from engine.engine import engine
 
 #Binary image classification
- 
+#new changes
 #Read the csv file
 df = pd.read_csv('PATH TO THE CSV')
 
